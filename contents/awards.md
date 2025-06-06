@@ -1,0 +1,2 @@
+- **Fully Funded Graduate Research Assistantship**,2025
+- **Level B “Merit-Based Scholarship”** at Georgia Institute of Technology (Top 5%), 2024
