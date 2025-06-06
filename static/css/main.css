@@ -109,3 +109,8 @@ section .main-body{
     }
 }
 
+#page-top-title {
+    font-family: "Kanit", sans-serif;
+    color: var(--h-title-color);
+  }
+  
