@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/yi-qian-zhang)
+[![yi-qian-zhang](https://img.shields.io/badge/yiqianzhang-github-blue?logo=github)](https://github.com/yi-qian-zhang)          [![LinkedIn](https://img.shields.io/badge/In-0077B5?logo=in&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yiqian-zhang-898430281/)
 
 I am currently a Master’s student in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I also work as a research assistant at the Key Lab of Data Mining, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, where I am advised by Prof. Min Yang and work closely with Dr. Feng Jiang. My research centers on reasoning in large language models (LLMs), with a focus on enhancing and evaluating their reasoning capabilities. In parallel, I collaborate with Prof. Hanqing Guo on trustworthy AI and with Prof. Changlai Du on federated learning.
 
