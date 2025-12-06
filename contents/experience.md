@@ -1,5 +1,5 @@
 #### Software Engineer 
-##### **Sep. 2022-Aug. 2024 | Huawei**  
+##### **Sep. 2022-Aug. 2024 | Primeton**  
 
 Worked on the development and optimization of large-scale systems, with a focus on algorithm enhancement and system efficiency. Contributed to real-time data processing pipelines and communication channel optimization for personalized user message delivery.
 

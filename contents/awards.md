@@ -1,2 +1,6 @@
-- **Fully Funded Graduate Research Assistantship**,2025
-- **Level B “Merit-Based Scholarship”** at Georgia Institute of Technology (Top 5%), 2024
+- **Fully Funded Graduate Research Assistantship**, Georgia Institute of Technology 2025
+- **Level B Merit-Based Scholarship (Top 5%)**, Georgia Institute of Technology 2024
+- **Outstanding Employee Award (Enterprise-level, Top 10%)**, Primeton Software.Inc 2023
+- **Third Prize**, Beijing College Students’ “Internet+” Innovation and Entrepreneurship Competition 2021
+- **Entrepreneurship Training Program (Municipal-level, Top 25%)**, Beijing 2021
+- **Innovation Training Program (Municipal-level, Top 15%)**, Beijing 2021
