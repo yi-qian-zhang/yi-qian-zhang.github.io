@@ -2,7 +2,7 @@
 
 I am currently a Master’s student in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I also work as a research assistant at the Key Lab of Data Mining, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, where I am advised by Prof. Min Yang and work closely with Dr. Feng Jiang. My research centers on reasoning in large language models (LLMs), with a focus on enhancing and evaluating their reasoning capabilities. In parallel, I collaborate with Prof. Hanqing Guo on trustworthy AI and with Prof. Changlai Du on federated learning.
 
-I hold undergraduate degrees in Computer Science from Lancaster University and Beijing Jiaotong University, where I was advised by Dr. Scott Piao and Wenjuan Yu. Prior to graduate school, I worked as a backend development engineer at Primeton Software, Inc.
+I hold undergraduate degrees in Computer Science from Lancaster University and Beijing Jiaotong University, where I was advised by Dr. Scott Piao and Wenjuan Yu. Prior to graduate school, I worked as a backend development engineer.
 
 #### Email  
 <code>yzhang4109@gatech.edu</code>  
