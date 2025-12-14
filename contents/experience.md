@@ -1,6 +1,10 @@
 #### Teaching Experience
 #### Graduate Teaching Assistant (CS6239: Enterprise Cybersecurity Management)
-##### **Jan. 2026-June. 2026 |Atlanta, GA**  
+##### **Jan. 2026-June. 2026 |Atlanta, GA**
+
+Served as a teaching assistant for a core graduate course in cybersecurity strategy, governance, and risk management. Supported students in understanding enterprise-level security frameworks and real-world CISO decision-making scenarios through case study evaluation and academic guidance.
+
+##### Key Contributions:
 - Selected to serve as a TA for a core graduate course focusing on cybersecurity strategy, governance, and risk management (GRC)
 - Responsible for grading case studies and exams that simulate real-world CISO challenges, such as Board reporting and regulatory compliance
 - Provide academic support for modules covering the NIST Cybersecurity Framework, corporate policy, and security architecture
