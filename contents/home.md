@@ -4,15 +4,12 @@ In parallel, I maintain active collaborations on Generative AI Security (Waterma
 
 I hold dual B.Sc. degrees from Lancaster University and Beijing Jiaotong University, where I was advised by Dr. Scott Piao and Wenjuan Yu. Prior to graduate school, I worked as a software development engineer.
 
-<div style="text-align:center; margin-top: 1.2rem; font-size: 1.05rem; letter-spacing: 0.02em;">
-  <a href="mailto:yzhang4109@gatech.edu">Email</a> &nbsp;/&nbsp;
-  <a href="https://scholar.google.com/citations?user=kB7F8MAAAAAJ&hl=zh-CN">Google Scholar</a> &nbsp;/&nbsp;
-  <a href="https://github.com/yi-qian-zhang">GitHub</a> &nbsp;/&nbsp;
-  <a href="https://www.linkedin.com/in/yiqian-zhang-898430281/">LinkedIn</a>
+<div style="text-align:center; margin-top: 1.2rem;">
+  <a href="mailto:yzhang4109@gatech.edu"><code>Email</code></a> &nbsp;/&nbsp;
+  <a href="https://scholar.google.com/citations?user=kB7F8MAAAAAJ&hl=zh-CN"><code>Google Scholar</code></a> &nbsp;/&nbsp;
+  <a href="https://github.com/yi-qian-zhang"><code>GitHub</code></a> &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/yiqian-zhang-898430281/"><code>LinkedIn</code></a>
 </div>
-
-#### Email  
-<code>yzhang4109@gatech.edu</code>  
 
 #### Education  
 - 2024.08 - 2026.05 (Estimated), M.S. in Computer Science, Georgia Institute of Technology
