@@ -12,13 +12,14 @@ I hold dual B.Sc. degrees from Lancaster University and Beijing Jiaotong Univers
 </div>
 
 #### Education  
-- 2024.08 - 2026.05 (Estimated), M.S. in Computer Science, Georgia Institute of Technology
+- 2024.08 - 2026.05 (Estimated), M.S. in ECE (Electrical and Computer Engineering), Georgia Institute of Technology
   - GPA: 4.0/4.0
 - 2018.08 - 2022.06, Bachelor in Computer Science, Lancaster University
   * B.Sc. in Computer Science, Upper Second Class Honors
   * Dual degree program with Beijing Jiaotong University
 
-#### Research Interests  
+#### Research Interests
+* Trustworthy AI 
 * Large Language Model Reasoning
-* Trustworthy AI
-* Security and privacy in federated learning
+* Privacy-Preserving Federated Learning
+* Dialogue Systems

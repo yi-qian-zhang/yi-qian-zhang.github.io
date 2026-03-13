@@ -1,5 +1,5 @@
 #### PATENTS                                                       
-[1] **Reasoning While Asking Enhancing Reasoning in LRMs through User-intend Inference Paths** (targeting ACL 2026)
+[1] **Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers** (ACL ARR 2026 January Submission)
 
 [2] **Yiqian Zhang**, *Recurrent Neural Network and Weighted Knowledge Graph-based Recommendation System*, Invention Patent, Application No. 2023113330422
 
